@@ -1,2 +1,2 @@
 # NewTest
-Just a Tet
+Just a Test
